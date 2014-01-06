@@ -12,3 +12,5 @@ def getTitle(url):
       end = cont.find('</TITLE>',start)
    
    return cont[start:end]
+url = raw_input("Provide a full URL of a website:")
+print getTitle(url)
