@@ -1,4 +1,4 @@
-Web Page TITLE
+Web Page Title
 =====================================================
 A program that prints the title of a given web page.
 -----------------------------------------------------
